@@ -18,6 +18,7 @@ include "%L"
 <Multi_key> <m> <o> : "👌" # OK
 <Multi_key> <m> <a> : "💪" # arm
 <Multi_key> <m> <b> : "🤯" # blowing
+<Multi_key> <m> <d> : "😈" # devil
 
 # These are for my symbols
 <Multi_key> <s> <o> : "Ω" # omega
